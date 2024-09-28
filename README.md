@@ -1,1 +1,1 @@
-A simple currency converter that ias able to produce real-time currencyc rate changes upon request and display the conversion result
+A simple currency converter that is able to produce real-time currency rate changes upon request and display the conversion result
